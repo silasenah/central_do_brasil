@@ -29,3 +29,21 @@ p {
     font-size: 1.7em;
     color: black;
 }
+
+.footer {
+    height: 15em;
+    width: auto;
+   
+    background-color: rgba(170, 96, 0, 0.753);
+}
+
+.fotofooter {
+    width: 20em;
+    height: 15em;
+    filter: sepia(90%);
+}
+
+.afooter {
+
+    color: white;
+}
