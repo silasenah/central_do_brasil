@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Sacramento');
+
+header{
+    background-image: url(../img/fernandamontenegro_header.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1,h2{
+    font-family: 'Sacramento', cursive;
+    font-size: 5em;
+    color: rgba(255, 255, 255, 0.7)
+}
+
+a {
+    font-family: 'Sacramento', cursive;
+    font-size: 2em;
+    color: rgba(70, 45, 45, 0.733);
+}
+
+.cartaz {
+    background-image: url(../img/cartaz_centraldobrasil20anos.jpg);
+    filter: blur(90%);
+}
+
+p {
+    font-family: 'Sacramento', cursive;
+    font-size: 1.7em;
+    color: black;
+}
